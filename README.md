@@ -3,8 +3,8 @@
 Python Script which returns the current Bitcoin price in your local currency
 
 ### Tech
-Python = 3.X
-CLI
+- Python = 3.X
+- CLI
 
 ### Packages Required
 
